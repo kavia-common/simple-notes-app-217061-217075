@@ -1,0 +1,5 @@
+All previously proposed frontend changes (retro UI + backend CRUD integration) were rejected and therefore were NOT applied to disk.
+
+No further frontend code modifications are currently staged in this response to avoid re-submitting rejected changes.
+
+If you want me to proceed, please reply with which parts to re-apply (e.g., "re-apply all changes", or "only apply the API client + env example", or "only apply the UI without dependency pinning").
